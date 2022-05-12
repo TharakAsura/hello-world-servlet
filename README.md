@@ -19,3 +19,4 @@ sample
 10-5-2022  -->it is tuesday 07:14 pm 0f may
 11-5-2022 -->it is wednesday of may
 11-5-2022 -->it evening
+11-5-2022 --> good night 
